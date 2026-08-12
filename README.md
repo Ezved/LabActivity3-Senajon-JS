@@ -149,5 +149,3 @@ Never treat the DOM as the source of truth. The array is the source of truth; `r
 
 Follow your instructor’s instructions (usually a GitHub repo URL or zipped `lab_3_kanban_board` folder).
 # LabActivity3-Senajon-JS
-# LabActivity3-LastName-JS
-# LabActivity3-Senajon-JS
