@@ -49,7 +49,7 @@ function render() {
 			moveBtn.dataset.action = "move";
 			moveBtn.dataset.id = task.id;
 			moveBtn.dataset.status = status;
-			moveBtn.textContent = `Move → ${STATUS_LABELS[status]}`;  ``` ` 
+			moveBtn.textContent = `Move → ${STATUS_LABELS[status]}`;
 			actions.appendChild(moveBtn);
 		}
 
